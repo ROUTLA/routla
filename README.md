@@ -117,7 +117,7 @@
     <h2>About Me</h2>
     <p>
       Hello! I'm a passionate developer with experience in building responsive web applications.
-      I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+  I enjoy turning complex problems into simple, beautiful, and intuitive designs.I'm also an expert in online bussiness, bringing about many friutful reearchs
     </p>
   </section>
 
