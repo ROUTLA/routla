@@ -125,7 +125,7 @@
     <h2>Projects</h2>
     <div class="projects">
       <div class="project">
-        <h3>Project One</h3>
+        <h3><a href="https://routla.github.io/First/">Project One</a></h3>
         <p>Description of your first project. What tech was used, what problem it solved, etc.</p>
       </div>
       <div class="project">
